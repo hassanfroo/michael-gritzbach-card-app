@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Michael Gritzbach</string>
+    <string name="title_activity_main">Michael Gritzbach</string>
+    <string name="package_name">com.michaelgritzbach.card</string>
+    <string name="custom_url_scheme">com.michaelgritzbach.card</string>
+</resources>
